@@ -1,3 +1,9 @@
+// Drunkard task
+// Copyright (C) 2018 Yurii Khomiak
+// Yurii Khomiak licenses this file to you under the MIT license.
+// See the LICENSE file in the project root for more information.
+
+
 class DrunkardTask {
 	private final static String conditions[] = {"P O L I C E", "1st Pub", "2nd Pub", "3rd Pub", "4th Pub", "W I F E"};
 
