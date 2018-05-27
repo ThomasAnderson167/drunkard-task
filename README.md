@@ -13,4 +13,5 @@ Simple implementation of the drunkard task based on Markov chain
 ## License & copyright
 
 © Yurii Khomiak
+
 Licensed under the [MIT License](LICENSE).
